@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week6Arrays", "Week6Arrays\Week6Arrays.csproj", "{A1F26658-33A0-4C6C-BF0B-592A6B11C3C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WardobePicker", "WardobePicker\WardobePicker.csproj", "{553C2BF3-CA15-4274-B576-9F81E3774121}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F26658-33A0-4C6C-BF0B-592A6B11C3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F26658-33A0-4C6C-BF0B-592A6B11C3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F26658-33A0-4C6C-BF0B-592A6B11C3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F26658-33A0-4C6C-BF0B-592A6B11C3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553C2BF3-CA15-4274-B576-9F81E3774121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553C2BF3-CA15-4274-B576-9F81E3774121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553C2BF3-CA15-4274-B576-9F81E3774121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553C2BF3-CA15-4274-B576-9F81E3774121}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66FBBCF2-1792-4781-B2A5-C208217655BC}
+	EndGlobalSection
+EndGlobal
